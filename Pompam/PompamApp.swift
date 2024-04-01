@@ -11,7 +11,7 @@ import SwiftUI
 struct PompamApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginPage()
         }
     }
 }
